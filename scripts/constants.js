@@ -31,7 +31,7 @@ export const ACTION_TYPE = {
 export const GROUP = {
     armor: { id: 'armor', name: 'tokenActionHud.template.armor', type: 'system' },
     equipment: { id: 'equipment', name: 'tokenActionHud.template.equipment', type: 'system' },
-    consumables: { id: 'consumables', name: 'TtokenActionHud.template.consumables', type: 'system' },
+    consumables: { id: 'consumables', name: 'tokenActionHud.template.consumables', type: 'system' },
     containers: { id: 'containers', name: 'tokenActionHud.template.containers', type: 'system' },
     treasure: { id: 'treasure', name: 'tokenActionHud.template.treasure', type: 'system' },
     weapons: { id: 'weapons', name: 'tokenActionHud.template.weapons', type: 'system' },
