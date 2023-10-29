@@ -13,7 +13,7 @@
   "version": "This is auto replaced",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.300"
+    "verified": "11.313"
   },
   "esmodules": [
     "./scripts/init.js"
@@ -21,6 +21,7 @@
   "scripts": [
   ],
   "styles": [
+    "./styles/tah-template-style.css"
   ],
   "languages": [
     {
@@ -49,9 +50,9 @@
         "type": "module",
         "compatibility": [
           {
-            "minimum": "1.4.7",
-            "maximum": "1.4",
-            "verified": "1.4.7"
+            "minimum": "1.5.0",
+            "maximum": "1.5",
+            "verified": "1.5.0"
           }
         ]
       }
