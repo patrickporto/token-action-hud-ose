@@ -1,11 +1,11 @@
 {
-  "id": "token-action-hud-template",
-  "title": "Token Action HUD Template",
+  "id": "token-action-hud-ose",
+  "title": "Token Action HUD Old School Essentials",
   "description": "Token Action HUD is a repositionable HUD of actions for a selected token",
   "authors": [
     {
-      "name": "Larkinabout",
-      "url": "https://github.com/Larkinabout"
+      "name": "Patrick Porto",
+      "url": "https://github.com/patrickporto"
     }
   ],
   "url": "This is auto replaced",
@@ -34,12 +34,12 @@
   "relationships": {
     "systems": [
       {
-        "id": "template",
+        "id": "ose",
         "type": "system",
         "compatibility": [
           {
-            "minimum": "1.0.0",
-            "verified": "1.0.0"
+            "minimum": "1.9.3",
+            "verified": "1.9.3"
           }
         ]
       }
@@ -65,7 +65,7 @@
   "socket": false,
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
-  "readme": "https://github.com/Larkinabout/fvtt-token-action-hud-template#readme",
+  "readme": "https://github.com/patrickporto/token-action-hud-ose#readme",
   "protected": false,
   "coreTranslation": false,
   "library": false

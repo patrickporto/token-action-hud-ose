@@ -1,6 +1,6 @@
-![Downloads](https://img.shields.io/github/downloads/Larkinabout/fvtt-token-action-hud-template/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge) [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Ftoken-action-hud-template&colorB=448d34&style=for-the-badge)](https://forge-vtt.com/bazaar#package=token-action-hud-template)
+![Downloads](https://img.shields.io/github/downloads/Larkinabout/fvtt-token-action-hud-ose/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge) [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Ftoken-action-hud-ose&colorB=448d34&style=for-the-badge)](https://forge-vtt.com/bazaar#package=token-action-hud-ose)
 
-# Token Action HUD Template
+# Token Action HUD Old School Essentials
 
 Token Action HUD is a repositionable HUD of actions for a selected token.
 
@@ -24,12 +24,12 @@ Token Action HUD is a repositionable HUD of actions for a selected token.
 ## Method 2
 1. On Foundry VTT's **Configuration and Setup** screen, go to **Add-on Modules**
 2. Click **Install Module**
-3. In the Manifest URL field, paste: `https://github.com/Larkinabout/fvtt-token-action-hud-template/releases/latest/download/module.json`
+3. In the Manifest URL field, paste: `https://github.com/patrickporto/token-action-hud-ose/releases/latest/download/module.json`
 4. Click **Install** next to the pasted Manifest URL
 
 ## Required Modules
 
-**IMPORTANT** - Token Action HUD Template requires the [Token Action HUD Core](https://foundryvtt.com/packages/token-action-hud-core) module to be installed.
+**IMPORTANT** - Token Action HUD Old School Essentials requires the [Token Action HUD Core](https://foundryvtt.com/packages/token-action-hud-core) module to be installed.
 
 ## Recommended Modules
 Token Action HUD uses the [Color Picker](https://foundryvtt.com/packages/color-picker) library module for its color picker settings.
